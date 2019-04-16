@@ -1,1 +1,3 @@
-# ah-django-frontend
+## ah-django-frontend
+
+[![Build Status](https://travis-ci.com/deferral/ah-django-frontend.svg?branch=develop)](https://travis-ci.com/deferral/ah-django-frontend) [![Test Coverage](https://api.codeclimate.com/v1/badges/d58c876d56b00b2c9e3e/test_coverage)](https://codeclimate.com/github/deferral/ah-django-frontend/test_coverage) [![Maintainability](https://api.codeclimate.com/v1/badges/d58c876d56b00b2c9e3e/maintainability)](https://codeclimate.com/github/deferral/ah-django-frontend/maintainability)
